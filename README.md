@@ -1,5 +1,5 @@
-# Social-Media-Data-Scraping-and-Analysis
-
+# Social-Media-Data-Scraping-and-Analysis11
+#### [Author : Yassine Sfaihi]
 ## Introduction:
 The Social Media Analytics Pipeline project aims to extract data from Instagram and Facebook based on specific search topics and store them in a MongoDB database. The project includes two parts, which involve using different tools and libraries to extract data from both social media platforms.
 
