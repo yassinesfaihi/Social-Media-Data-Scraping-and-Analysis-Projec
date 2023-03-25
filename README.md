@@ -17,7 +17,7 @@ To extract data using the Facebook Graph API, we need to create a Facebook App a
 
 The extracted data is then stored in a MongoDB database for further analysis. MongoDB is a NoSQL database that allows for the storage and retrieval of unstructured data.
 
-###Tools used: Python, Facebook Graph API, MongoDB
+### Tools used: Python, Facebook Graph API, MongoDB
 
 ## Conclusion:
 The Social Media Analytics Pipeline project demonstrates my skills in Python programming, data extraction, and database management. By extracting data from both Instagram and Facebook, we can gain insights into how people are talking about specific topics on social media. We can use this data to inform marketing strategies, social media campaigns, and more. The project also highlights the importance of using the right tools and libraries for data extraction and management.
